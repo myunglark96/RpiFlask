@@ -1,10 +1,10 @@
 {
-	"AllLights": [
-		"livingroom",
-		"kitchen",
-		"bedroom"
-	],
-	"livingroom": true,
-	"kitchen": true,
-	"bedroom": true
+    "AllLights": [
+        "livingroom",
+        "kitchen",
+        "bedroom"
+    ],
+    "bedroom": true,
+    "livingroom": false,
+    "kitchen": false
 }
